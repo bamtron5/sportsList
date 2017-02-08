@@ -1,4 +1,4 @@
 # List of cool sports 👾
 * Basketball
-* fencing
+* Baseball
 * Soccer
