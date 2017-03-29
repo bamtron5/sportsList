@@ -1,6 +1,6 @@
 # List of cool sports 👾
 * Basketball
-mountain biking
+* Smountain biking
 * Baseball
 * Soccer
 * Hockey
